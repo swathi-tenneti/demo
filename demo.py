@@ -6,7 +6,7 @@ with col1:
   st.subheader("Persian Cat")
   st.image("./Persiancat.jpg",caption="Persian Cat", width=300,use_column_width=True)
   st.write("Persian cats are cute")
-with col1:
+with col2:
   st.subheader("Ragdoll cat")
   st.image("./Ragdollcat.jpg",caption="Ragdoll Cat", width=300,use_column_width=True)
-  st.write("Persian cats are cute")
+  st.write("Rugdoll cats are cute")
